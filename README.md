@@ -11,6 +11,7 @@ Monitoring patient progress in mental health treatment can be challenging due to
 - Which patients are at risk of deterioration?
 - How symptoms, stress, mood, and sleep interact over time.
 Without a structured analytical system, vital patterns may remain hidden, making it difficult to optimise care or tailor interventions to patient needs.
+
 This project aims to solve these challenges by developing a data-driven dashboard that:
 - Visualises patient progress in real time.
 - Highlights key predictors of positive or negative outcomes.
@@ -20,7 +21,4 @@ This project aims to solve these challenges by developing a data-driven dashboar
 By transforming raw data into actionable insights, the dashboard enables clinicians, mental health researchers, and healthcare managers to make more informed, evidence-based decisions that can enhance patient well-being and treatment effectiveness.
 
  
-
-<img width="3368" height="1099" alt="image" src="https://github.com/user-attachments/assets/46bfba87-31ca-4a38-a7ed-6cf4eacdcc96" />
-
 
