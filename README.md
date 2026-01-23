@@ -2,6 +2,14 @@
 This project followed a structured analytics workflow to transform raw mental health data into a dynamic, insight-driven dashboard. 
 
 ## Table of Contents
+1. [Problem Statement](#problem-statement)
+2. [Overview](#overview)
+3. [Data Collection and Integration](#data-collection-and-integration)
+4. [Tools](#tools)
+5. [Data Modelling and Transformation](#data-modelling-and-transformation)
+6. [Visualisation and Insights](#visualisation-and-insights)
+7. [Conclusion](#conclusion)
+8. [Recommendations](#recommendations)
 
 # Problem Statement
 Monitoring patient progress in mental health treatment can be challenging due to the complexity of symptoms, behavioural changes, and individual responses to medication or therapy. Clinicians often struggle to identify:
@@ -48,7 +56,7 @@ The dataset was examined to understand field meanings, data quality, and the rel
 - Power Query.
 - DAX.
 
-### Data Modelling and Transformation.
+### Data Modelling and Transformation
 ---
 Power Query and DAX were used to clean, normalise, and enrich the dataset:
 - Created calculated columns (e.g., activity categories, adherence groups).
