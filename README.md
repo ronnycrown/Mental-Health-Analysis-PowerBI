@@ -63,6 +63,18 @@ Power Query and DAX were used to clean, normalise, and enrich the dataset:
 - Calculated measures to identify the various key performance indicators generated from the dataset.
 - Developed visuals for my dashboard showing the most common diagnosis, total number of patients, rate of diagnosis by gender, diagnosis by age group, outcome by adherence, e.t.c.
 
+### Conclusion
+---
+This mental health analysis and dashboard project demonstrates the power of data analytics in improving patient care and understanding treatment effectiveness. 
+By combining clinical indicators, behavioural metrics, emotional insights, and treatment attributes, the dashboard enables a comprehensive view of patient health and progression. 
+The solution makes it easy to identify:- 
+- What drives improvement?
+- Which behaviours need intervention?
+- How adherence influences results?
+- Which treatment methods are working?
+- Where risks and deterioration patterns exist?
+Through evidence-based visualization, clinicians, researchers, and health managers gain a clearer understanding of patient journeys and can make better decisions to support patient wellbeing.
+
 ### Recommendations
 ---
 Based on the analysis of patient demographics, treatment methods, emotional states, adherence levels, and outcomes, the following recommendations are proposed to improve treatment effectiveness, patient well-being, and overall mental health service delivery:
