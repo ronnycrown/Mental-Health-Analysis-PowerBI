@@ -64,61 +64,40 @@ Power Query and DAX were used to clean, normalise, and enrich the dataset:
 - Developed visuals for my dashboard showing the most common diagnosis, total number of patients, rate of diagnosis by gender, diagnosis by age group, outcome by adherence, e.t.c.
 
 ### Recommendations
-
+---
 Based on the analysis of patient demographics, treatment methods, emotional states, adherence levels, and outcomes, the following recommendations are proposed to improve treatment effectiveness, patient well-being, and overall mental health service delivery:
 
-1. Improve Treatment Adherence
+1. Improve Treatment Adherence.
+- Patients with higher adherence percentages showed better treatment outcomes.
+- Introduce reminder systems, follow-up check-ins, and simplified treatment plans to support consistency.
+- Utilise adherence tracking to identify at-risk patients early for targeted intervention.
 
-Patients with higher adherence percentages showed better treatment outcomes.
+2. Prioritise Early Emotional State Detection.
+- The AI-detected emotional state proved useful in identifying patients at risk of deterioration.
+- Integrate emotional state monitoring into routine assessments to enable early psychological support.
+- Patients showing persistent negative emotional states should be prioritised for therapy review or escalation.
 
-Introduce reminder systems, follow-up check-ins, and simplified treatment plans to support consistency.
+3. Personalise Treatment Plans.
+- Different diagnoses respond differently to medication, therapy type, and duration.
+- Adopt personalised care plans rather than a one-size-fits-all approach.
+- Use diagnosis-specific insights to guide therapy selection and treatment duration.
 
-Use adherence tracking to flag at-risk patients early for intervention.
+4. Strengthen Stress Management Interventions.
+- High stress levels were strongly associated with poor outcomes and low mood scores.
+- Incorporate stress management programs such as mindfulness, relaxation techniques, and lifestyle counselling.
+- Regularly monitor stress levels to assess treatment progress beyond clinical symptoms alone.
 
-2. Prioritize Early Emotional State Detection
+5. Encourage Physical Activity as a Supportive Intervention.
+- Moderate physical activity levels were associated with better mood and sleep quality.
+- Recommend structured, achievable activity plans based on patient capacity.
+- Collaborate with wellness or fitness programs where possible.
 
-The AI-detected emotional state proved useful in identifying patients at risk of deterioration.
+6. Enhance Sleep Quality Monitoring.
+- Poor sleep quality correlated with higher symptom severity and stress levels.
+- Include sleep hygiene education and regular sleep assessments in treatment plans.
+- Address sleep issues early as part of holistic mental health care.
 
-Integrate emotional state monitoring into routine assessments to enable early psychological support.
-
-Patients showing persistent negative emotional states should be prioritized for therapy review or escalation.
-
-3. Personalize Treatment Plans
-
-Different diagnoses respond differently to medication, therapy type, and duration.
-
-Adopt personalized care plans rather than a one-size-fits-all approach.
-
-Use diagnosis-specific insights to guide therapy selection and treatment duration.
-
-4. Strengthen Stress Management Interventions
-
-High stress levels were strongly associated with poor outcomes and low mood scores.
-
-Incorporate stress management programs such as mindfulness, relaxation techniques, and lifestyle counseling.
-
-Regularly monitor stress levels to assess treatment progress beyond clinical symptoms alone.
-
-5. Encourage Physical Activity as a Supportive Intervention
-
-Moderate physical activity levels were associated with better mood and sleep quality.
-
-Recommend structured, achievable activity plans based on patient capacity.
-
-Collaborate with wellness or fitness programs where possible.
-
-6. Enhance Sleep Quality Monitoring
-
-Poor sleep quality correlated with higher symptom severity and stress levels.
-
-Include sleep hygiene education and regular sleep assessments in treatment plans.
-
-Address sleep issues early as part of holistic mental health care.
-
-7. Use Predictive Analytics for Proactive Care
-
-Predictors such as adherence, stress level, emotional state, and physical activity can be used to anticipate treatment outcomes.
-
-Leverage these insights to identify patients likely to deteriorate and intervene proactively.
-
-This supports a shift from reactive care to preventive, data-driven mental health management.
+7. Use Predictive Analytics for Proactive Care.
+- Predictors such as adherence, stress level, emotional state, and physical activity can be used to anticipate treatment outcomes.
+- Leverage these insights to identify patients likely to deteriorate and intervene proactively.
+- This supports a shift from reactive care to preventive, data-driven mental health management.
